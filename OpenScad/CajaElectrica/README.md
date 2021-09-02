@@ -7,6 +7,8 @@ This is a design to create boxes to use electrial things for EDUCATIONAL purpose
 
 To change between designs, change the number in varible "objetoParaMostrar".
 
+I used threaded rod M5.
+
 DISCLAIMER: Electricity is a serious thing, do not create or use that box if you do not have some experience with cables, voltages and that type of stuff. Seriously, you can die. This box has NO IP and IK ratings, of course.
 
 ![](cajaVariables.png)
