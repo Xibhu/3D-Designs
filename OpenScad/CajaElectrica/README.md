@@ -26,3 +26,5 @@ DISCLAIMER: Electricity is a serious thing, do not create or use that box if you
 ![](5.jpg)
 
 ![](6.jpg)
+
+![](7.jpg)
